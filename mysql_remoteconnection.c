@@ -1,6 +1,6 @@
 
 // mysql8.0安装以及开启远程连接
-/*
+/* 
     版本：8.0.26-0ubuntu0.20.04.2 (Ubuntu)
 
     安装命令：sudo apt-get install mysql-server
